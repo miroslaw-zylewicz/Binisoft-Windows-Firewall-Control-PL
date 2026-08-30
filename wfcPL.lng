@@ -1,5 +1,5 @@
 // Autor: Helium, Artur Dudek, Lukasz Chojnacki, Adam Szkudlarek, Mirosław Żylewicz
-// Version: 6.26.0.0 (28.02.2026)
+// Version: 6.32.0.0 (30.08.2026)
 
 // General
 
@@ -134,7 +134,6 @@
 304 = Uruchom automatycznie przy logowaniu użytkownika
 305 = W przypadku korzystania z funkcji szybkiego przełączania użytkowników ta opcja ma zastosowanie przy pierwszym logowaniu użytkownika.
 308 = Globalne skróty klawiaturowe
-310 = Przełączanie między niskimi i średnimi profilami filtrowania
 309 = Globalne skróty klawiszowe to skróty klawiaturowe, których można używać z poziomu dowolnej uruchomionej aplikacji.
 310 = Przełącz pomiędzy profilami filtrowania
 311 = Przełącz prośbę o podniesienia / cofnij uprawnień
@@ -179,7 +178,7 @@
 450 = Bezpieczeństwo
 451 = Określ, które z poniższych rozszerzeń bezpieczeństwa, będą egzekwowane przez Malwarebytes Windows Firewall Control
 452 = Bezpieczne uruchamianie
-453 = Automatycznie ustaw profil wysokiego filtrowania przy zamykaniu systemu. Podczas uruchamiania systemu Windows wszystkie połączenia sieciowe będą blokowane, dopóki użytkownik nie zmieni profilu ręcznie.
+453 = Automatycznie ustaw profil na Wysoki poziom filtrowania przy zamykaniu systemu. Podczas uruchamiania systemu Windows wszystkie połączenia sieciowe będą blokowane, dopóki użytkownik nie zmieni profilu ręcznie.
 454 = Bezpieczne reguły
 455 = Włącz ochronę przed regułami zapory, które nie zostały utworzone w autoryzowanych grupach zdefiniowanych poniżej. Dotyczy to nowo tworzonych reguł zapory oraz reguł już istniejących.
 456 = Autoryzowane grupy
@@ -195,6 +194,9 @@
 475 = Usuń nieautoryzowane reguły
 476 = Wyłącz nieautoryzowane reguły
 477 = Zezwól na reguły sklepu Windows
+478 = Bezpieczny dostęp
+479 = Wymagaj podwyższenia uprawnień w celu uzyskania dostępu do zapisu. Pozostaw tę opcję włączoną, aby zwiększyć bezpieczeństwo lub wyłącz dla wygody.
+
 
 // Tools
 
@@ -250,7 +252,7 @@
 
 // Manage Rules
 
-700 = Identyfikator procesu
+700 = ID procesu
 701 = Nazwa
 702 = Grupa
 703 = Program
@@ -293,7 +295,7 @@
 740 = Szukaj
 741 = Rejestr połączeń
 742 = Reguły
-743 = Importowanie reguł z pliku
+743 = Importuj reguły z pliku
 744 = Eksportuj wszystkie reguły
 745 = Eksportuj wybrane reguły
 746 = Przywróć domyślne reguły
