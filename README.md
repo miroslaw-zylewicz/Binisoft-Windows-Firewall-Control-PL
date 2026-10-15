@@ -1,4 +1,4 @@
-<b>Binisoft Windows Firewall Control 6.32.0.0 na oficjalnej stronie:</b>
+<b>Binisoft Windows Firewall Control 6.36.0.0 na oficjalnej stronie:</b>
 
 https://www.binisoft.org
 
