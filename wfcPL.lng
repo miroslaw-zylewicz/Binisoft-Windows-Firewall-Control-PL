@@ -1,5 +1,5 @@
 // Autor: Helium, Artur Dudek, Lukasz Chojnacki, Adam Szkudlarek, Mirosław Żylewicz
-// Version: 6.32.0.0 (30.08.2026)
+// Version: 6.36.0.0 (15.10.2026)
 
 // General
 
@@ -115,7 +115,12 @@
 223 = Użyj reguł zezwalających podczas wyszukiwania pasujących reguł. Zalecane ze względu na kompatybilność z innymi programami zabezpieczającymi, jeśli wyświetlane są zduplikowane powiadomienia.
 224 = Użyj ogólnych reguł blokowania podczas wyszukiwania pasujących reguł. Jeśli reguła blokowania dotycząca wszystkich programów pasuje do zablokowanego połączenia, powiadomienia nie będą wyświetlane.
 225 = Użyj wyłączonych reguł podczas wyszukiwania pasujących reguł. Jeśli zostanie znaleziona pasująca wyłączona reguła, powiadomienia nie będą wyświetlane.
-230 = Reguła utworzona przez Tryb uczenia
+230 = Reguła utworzona przez Tryb uczenia.
+231 = Reguła utworzona przez Rejestr połączeń.
+232 = Reguła utworzona przez integrację z powłoką systemową.
+233 = Reguła utworzona przez przeglądanie pliku.
+234 = Reguła utworzona przez kliknięcie okna programu.
+235 = Reguła utworzona przez okno powiadomień.
 240 = Zdefiniuj poniżej programy i foldery, dla których powiadomienia nie zostaną wyświetlane
 241 = Wyjątki powiadomień
 242 = Dodaj wyjątek
@@ -125,6 +130,9 @@
 246 = Wyklucz plik
 247 = Wyklucz folder
 248 = Wyklucz pełną ścieżkę
+249 = Edytuj wyjątek
+250 = Konwertuj na małe litery
+251 = Konwertuj na WIELKIE LITERY
 
 // Options
 
@@ -196,7 +204,6 @@
 477 = Zezwól na reguły sklepu Windows
 478 = Bezpieczny dostęp
 479 = Wymagaj podwyższenia uprawnień w celu uzyskania dostępu do zapisu. Pozostaw tę opcję włączoną, aby zwiększyć bezpieczeństwo lub wyłącz dla wygody.
-
 
 // Tools
 
@@ -341,6 +348,7 @@
 786 = Przeglądaj...
 787 = Np: 80,443,9-29
 788 = Np: 66.198.240.5
+789 = Pakiet aplikacji
 792 = Proszę użyć przycisku 'Odśwież listę' lub klawisza F5, aby wczytać dane
 793 = Proszę czekać...
 794 = Dodaj do grupy
@@ -379,11 +387,13 @@
 831 = Połączona reguła
 840 = Zastosuj dla wszystkich programów i usług
 841 = Zastosuj tylko do usług
+842 = Zastosuj tylko do pakietów aplikacji
 850 = Adres źródłowy
 851 = Port źródłowy
 852 = Adres docelowy
 853 = Port docelowy
 860 = Nieważny
+861 = Właściciel użytkownika lokalnego
 
 // Validations
 
