@@ -15,3 +15,4 @@ https://www.binisoft.org
 <img width="1299" height="1005" alt="Zrzut ekranu 9" src="https://github.com/user-attachments/assets/98846a77-220d-4961-be98-fce29e27f971" />
 <img width="1300" height="1005" alt="Zrzut ekranu 10" src="https://github.com/user-attachments/assets/bc076524-5435-4bac-9be2-8a0f1e139205" />
 <img width="1300" height="1005" alt="Zrzut ekranu 11" src="https://github.com/user-attachments/assets/6fc9330e-d3ac-4540-99b4-5533a4dff986" />
+<img width="1283" height="1005" alt="Zrzut ekranu 12" src="https://github.com/user-attachments/assets/04100434-f29f-4bce-9042-dead82eacb71" />
